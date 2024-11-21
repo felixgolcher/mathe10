@@ -1,1 +1,1 @@
-Arbeitsblätter, die zu Hause als Hausaufgaben weitergemacht werden sollten, finden sich nicht noch einmal hier. Dies betrifft zum Beispiel [aufg-10-2024-11-21-lineare-funktionen.pdf](../arbeitsblaetter/aufg-10-2024-11-21-lineare-funktionen.pdf)
+Arbeitsblätter, die zu Hause als Hausaufgaben weitergemacht werden sollten, finden sich nicht noch einmal hier. Dies betrifft zum Beispiel [aufg-10-2024-11-21-lineare-funktionen.pdf](../arbeitsblaetter/aufg-10-2024-11-21-lineare-funktionen.pdf) im Verzeichnis [arbeitsblaetter](../arbeitsblaetter)
