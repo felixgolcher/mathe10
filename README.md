@@ -1,7 +1,7 @@
 # Die aktuellen Aufgaben/Dateien
 
-* Zu bearbeiten ist das Hausaufgabenblatt [hausaufgaben/haufg-07-2024-12-02-primzerlegung.pdf](hausaufgaben/haufg-07-2024-12-02-primzerlegung.pdf).
-* Eine Zusammenfassung der letzten Stunde findet sich in [mitschriften_und_texte/2024-12-02-primfaktoren.pdf](mitschriften_und_texte/2024-12-02-primfaktoren.pdf).
+* Hausaufgabe zu morgen ist das heute ausgeteilte Aufgabenblatt [aufg-16-2024-12-09-allgemeine-brueche-addieren.pdf](arbeitsblaetter/aufg-16-2024-12-09-allgemeine-brueche-addieren.pdf)
+
 
 # Über dieses Verzeichnis
 
