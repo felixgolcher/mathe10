@@ -1,6 +1,7 @@
 # Die aktuellen Aufgaben/Dateien
 
-* Hausaufgabe zu morgen ist das heute ausgeteilte Aufgabenblatt [aufg-16-2024-12-09-allgemeine-brueche-addieren.pdf](arbeitsblaetter/aufg-16-2024-12-09-allgemeine-brueche-addieren.pdf)
+* Es gibt keine aktuellen Hausaufgaben über die Ferien. 
+* Das aktuelle Arbeitsblatt ist [`aufg-17-2024-12-10-brueche-dezimal.pdf`](arbeitsblaetter/aufg-17-2024-12-10-brueche-dezimal.pdf). Hier haben wir nur den Stoff zu Aufgabe 1 explizit gesprochen, aber Aufgabe 2 ist kein Hexenwerk.
 
 
 # Über dieses Verzeichnis
