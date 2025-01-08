@@ -1,8 +1,8 @@
 # Die aktuellen Aufgaben/Dateien
 
-* Die aktuelle Hausaufgabe zu morgen (08.01.2025) ist [`haufg-08-2025-01-07-gluecksrad.pdf`](hausaufgaben/haufg-08-2025-01-07-gluecksrad.pdf)
-* Das aktuelle Arbeitsblatt ist [`aufg-18-2025-01-07-gluecksrad.pdf`](arbeitsblaetter/aufg-18-2025-01-07-gluecksrad.pdf).
-* Die neueste Tafelanschrift zur Wahrscheinlichkeit ist [2025-01-07-wahrscheinlichkeit.pdf](mitschriften_und_texte/2025-01-07-wahrscheinlichkeit.pdf)
+* Die aktuelle Hausaufgabe zu Montag (13.01.2025) ist [`haufg-09-2025-01-08-prozentuale-veraenderung.pdf`](hausaufgaben/haufg-09-2025-01-08-prozentuale-veraenderung.pdf)
+* Das aktuelle Arbeitsblatt ist [`aufg-19-2025-01-08-prozentuale-aenderung.pdf`](arbeitsblaetter/aufg-18-2025-01-07-gluecksrad.pdf).
+* Die neueste Tafelanschrift zur Wahrscheinlichkeit ist noch in Arbeit.
 
 
 # Über dieses Verzeichnis
