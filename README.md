@@ -2,7 +2,7 @@
 
 * Die aktuelle Hausaufgabe zu Montag (13.01.2025) ist [`haufg-09-2025-01-08-prozentuale-veraenderung.pdf`](hausaufgaben/haufg-09-2025-01-08-prozentuale-veraenderung.pdf)
 * Das aktuelle Arbeitsblatt ist [`aufg-19-2025-01-08-prozentuale-aenderung.pdf`](arbeitsblaetter/aufg-18-2025-01-07-gluecksrad.pdf).
-* Die neueste Tafelanschrift zur Wahrscheinlichkeit ist noch in Arbeit.
+* Die neueste Tafelanschrift zur Wahrscheinlichkeit ist [`2025-01-08-prozentuale-aenderung.pdf`](mitschriften_und_texte/2025-01-08-prozentuale-aenderung.pdf).
 
 
 # Über dieses Verzeichnis
