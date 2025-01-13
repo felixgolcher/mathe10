@@ -1,8 +1,9 @@
-# Die aktuellen Aufgaben/Dateien
+# Die aktuellen Aufgaben/Dateien [2025-01-13]
 
-* Die aktuelle Hausaufgabe zu Montag (13.01.2025) ist [`haufg-09-2025-01-08-prozentuale-veraenderung.pdf`](hausaufgaben/haufg-09-2025-01-08-prozentuale-veraenderung.pdf)
-* Das aktuelle Arbeitsblatt ist [`aufg-19-2025-01-08-prozentuale-aenderung.pdf`](arbeitsblaetter/aufg-18-2025-01-07-gluecksrad.pdf).
-* Die neueste Tafelanschrift ist [`2025-01-08-prozentuale-aenderung.pdf`](mitschriften_und_texte/2025-01-08-prozentuale-aenderung.pdf).
+* Heute (2025-01-13) gab es keine Hausafgabe. 4 h Unterricht sind vielleicht genug. Aber die Lösung der Hausaufgaben auf heute ist online.
+* Es gibt auch kein neues Arbeitsblatt.
+* Die Tafelanschrift muss noch aufbereitet werden.
+* Der Test von heute ist [2025-01-13-12-prozentuale-veraenderung.pdf](tests/2025-01-13-12-prozentuale-veraenderung.pdf) mit der Lösung [2025-01-13-12-prozentuale-veraenderung-loes.pdf](tests/2025-01-13-12-prozentuale-veraenderung-loes.pdf)
 
 
 # Über dieses Verzeichnis
