@@ -1,9 +1,8 @@
 # Die aktuellen Aufgaben/Dateien [2025-01-13]
 
-* Heute (2025-01-13) gab es keine Hausafgabe. 4 h Unterricht sind vielleicht genug. Aber die Lösung der Hausaufgaben auf heute ist online.
-* Es gibt auch kein neues Arbeitsblatt.
+* Die aktuelle Hausaufgabe ist, das Arbeitsblatt [aufg-20-2025-01-14-baeume.pdf](arbeitsblaetter/aufg-20-2025-01-14-baeume.pdf) fertig zu machen.
 * Die Tafelanschrift muss noch aufbereitet werden.
-* Der Test von heute ist [2025-01-13-12-prozentuale-veraenderung.pdf](tests/2025-01-13-12-prozentuale-veraenderung.pdf) mit der Lösung [2025-01-13-12-prozentuale-veraenderung-loes.pdf](tests/2025-01-13-12-prozentuale-veraenderung-loes.pdf)
+* Der Test von heute ist [2025-01-14-test-13-gleichungen.pdf](tests/2025-01-14-test-13-gleichungen.pdf) mit der Lösung [2025-01-14-test-13-gleichungen-loes.pdf](tests/2025-01-14-test-13-gleichungen-loes.pdf)
 
 
 # Über dieses Verzeichnis
