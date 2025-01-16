@@ -1,6 +1,7 @@
 # Die aktuellen Aufgaben/Dateien [2025-01-16]
 
 * Die aktuelle Hausaufgabe ist, 4 deckungsgleiche rechtwinklige Dreiecke zu basteln.
+* Das heute ausgeteilte Arbeitsblatt ist [aufg-21-2025-01-16-innenwinkelsumme.pdf](tests/aufg-21-2025-01-16-innenwinkelsumme.pdf). Eine Musterlösung muss noch erstellt werden.
 * Die Tafelanschrift muss noch aufbereitet werden.
 * Der Test von heute ist [2025-01-16-test-15-baum.pdf](tests/2025-01-16-test-15-baum.pdf) mit der Lösung [2025-01-16-test-15-baum-loes.pdf](tests/2025-01-16-test-15-baum-loes.pdf).
 
