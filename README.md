@@ -1,9 +1,9 @@
-# Die aktuellen Aufgaben/Dateien [2025-01-16]
+# Die aktuellen Aufgaben/Dateien [2025-01-17]
 
-* Die aktuelle Hausaufgabe ist, 4 deckungsgleiche rechtwinklige Dreiecke zu basteln.
-* Das heute ausgeteilte Arbeitsblatt ist [aufg-21-2025-01-16-innenwinkelsumme.pdf](tests/aufg-21-2025-01-16-innenwinkelsumme.pdf). Eine Musterlösung muss noch erstellt werden.
+* Die aktuelle Hausaufgabe ist [haufg-11-2025-01-17-pythagoras-01.pdf](hausaufgaben/haufg-11-2025-01-17-pythagoras-01.pdf). [Quelle](https://www.mathe-online.at/materialien/Margit.Schaefer/files/Pythagoras/UEB_Pyth.pdf)
+* Heute gab es kein gesondertes Aufgabenblatt
 * Die Tafelanschrift muss noch aufbereitet werden.
-* Der Test von heute ist [2025-01-16-test-15-baum.pdf](tests/2025-01-16-test-15-baum.pdf) mit der Lösung [2025-01-16-test-15-baum-loes.pdf](tests/2025-01-16-test-15-baum-loes.pdf).
+* Der Test von heute ist [2025-01-17-test-16-innenwinkel.pdf](2025-01-17-test-16-innenwinkel.pdf).
 
 
 # Über dieses Verzeichnis
