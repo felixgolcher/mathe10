@@ -1,9 +1,11 @@
-# Die aktuellen Aufgaben/Dateien [2025-01-20]
+# Die aktuellen Aufgaben/Dateien [2025-01-27]
 
-* Nach den 4 Stunden Mathe heute gibt es keine Hausaufgabe auf morgen.
-* Heute gab es kein gesondertes Aufgabenblatt.
-* Die Tafelanschrift von heute ist [2025-01-20-flaeche-rechtwinkliger-dreiecke.pdf](mitschriften_und_texte/2025-01-20-flaeche-rechtwinkliger-dreiecke.pdf).
-* Der Test von heute ist [2025-01-20-test-17-pythagoras.pdf](tests/2025-01-20-test-17-pythagoras.pdf) mit der Lösung [2025-01-20-test-17-pythagoras-loes.pdf](tests/2025-01-20-test-17-pythagoras-loes.pdf)
+(<relative-time datetime="2025-01-27T13:08:48+01:00">
+  April 1, 2014
+</relative-time>)
+
+* 27./28.01.2025: Es gibt über die Ausfalltage das Arbeitsblatt [arbeitsblaetter/aufg-25-2025-01-27-trapez-2.pdf](arbeitsblaetter/aufg-25-2025-01-27-trapez-2.pdf). Weitere sollen folgen.
+* Das Aufgabenblatt vom letzten Freitag ist online als [arbeitsblaetter/aufg-24-2025-01-27-trapez-1a.pdf](arbeitsblaetter/aufg-24-2025-01-27-trapez-1a.pdf) (Gruppe A) bzw [arbeitsblaetter/aufg-24-2025-01-27-trapez-1b.pdf](arbeitsblaetter/aufg-24-2025-01-27-trapez-1b.pdf).
 
 
 # Über dieses Verzeichnis
