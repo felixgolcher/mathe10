@@ -1,9 +1,5 @@
 # Die aktuellen Aufgaben/Dateien [2025-01-27]
 
-(<relative-time datetime="2025-01-27T13:08:48+01:00">
-  April 1, 2014
-</relative-time>)
-
 * 27./28.01.2025: Es gibt über die Ausfalltage das Arbeitsblatt [arbeitsblaetter/aufg-25-2025-01-27-trapez-2.pdf](arbeitsblaetter/aufg-25-2025-01-27-trapez-2.pdf). Weitere sollen folgen.
 * Das Aufgabenblatt vom letzten Freitag ist online als [arbeitsblaetter/aufg-24-2025-01-27-trapez-1a.pdf](arbeitsblaetter/aufg-24-2025-01-27-trapez-1a.pdf) (Gruppe A) bzw [arbeitsblaetter/aufg-24-2025-01-27-trapez-1b.pdf](arbeitsblaetter/aufg-24-2025-01-27-trapez-1b.pdf).
 
