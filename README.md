@@ -1,10 +1,10 @@
-# Die aktuellen Aufgaben/Dateien [2025-01-28]
+# Die aktuellen Aufgaben/Dateien [2025-01-29]
 
-* 27./28.01.2025: Es gibt über die Ausfalltage zwei Arbeitsblätter:
-  * [arbeitsblaetter/aufg-25-2025-01-27-trapez-2.pdf](arbeitsblaetter/aufg-25-2025-01-27-trapez-2.pdf).
-  * [arbeitsblaetter/aufg-26-2025-01-28-trapez-3.pdf](arbeitsblaetter/aufg-26-2025-01-28-trapez-3.pdf)
-* Das Aufgabenblatt vom letzten Freitag ist online als [arbeitsblaetter/aufg-24-2025-01-27-trapez-1a.pdf](arbeitsblaetter/aufg-24-2025-01-27-trapez-1a.pdf) (Gruppe A) bzw [arbeitsblaetter/aufg-24-2025-01-27-trapez-1b.pdf](arbeitsblaetter/aufg-24-2025-01-27-trapez-1b.pdf).
+* Der Test von heute ist online als [tests/2025-01-29-test-18-trapez.pdf](tests/2025-01-29-test-18-trapez.pdf), leider noch ohne Lösung.
+* es gibt eine [Lösung](arbeitsblaetter/loes-25-2025-01-27-trapez-2.pdf) zu dem Trapezblatt mit "den vielen Vierecken".
+* Die Tafelanschrift von heute ist [mitschriften_und_texte/2025-01-29-QA.pdf](mitschriften_und_texte/2025-01-29-QA.pdf).
 
+Ich bin dabei die Rückstände in Bezug auf Lösungen und Tafelanschriften abzubauen.
 
 # Über dieses Verzeichnis
 
