@@ -1,7 +1,8 @@
-# Die aktuellen Aufgaben/Dateien [updated: 2025-01-31 20:23]
+# Die aktuellen Aufgaben/Dateien [updated: 2025-01-31 22:50]
 
 * Der Test von heute ist online als [tests/2025-01-31_test-20-trapez-bbr-2.pdf](tests/2025-01-31_test-20-trapez-bbr-2.pdf), nun auch mit [Lösung](tests/2025-01-31_test-20-trapez-bbr-2-loes.pdf).
 * Das [Arbeitsblatt von heute](arbeitsblaetter/aufg-28_2025-01-31_zinsrechnung.pdf). Nun auch mit Lösung.
+* Die heutige [Tafelanschrift](mitschriften_und_texte/2025-01-31_verschiedenes.pdf).
 
 
 
