@@ -1,6 +1,7 @@
 # Die aktuellen Aufgaben/Dateien [2025-01-31]
 
 * Der Test von heute ist online als [tests/2025-01-31_test-20-trapez-bbr-2.pdf](tests/2025-01-30-test-19-trapez-bbr.pdf), noch ohne Lösung.
+* Das [Arbeitsblatt von heute](arbeitsblaetter/aufg-28_2025-01-31_zinsrechnung.pdf).
 * Das Erinnerungsblatt zur Prozentrechnung ist [hier](arbeitsblaetter/aufg-27_2025-01-30_prozentrechnung-erinnerung.pdf), jetzt auch mit [Lösung](arbeitsblaetter/loes-27_2025-01-30_prozentrechnung-erinnerung.pdf).
 
 
