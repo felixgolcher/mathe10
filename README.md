@@ -1,5 +1,6 @@
-# Die aktuellen Aufgaben/Dateien [updated: 06.02.2025 11:42]
+# Die aktuellen Aufgaben/Dateien [updated: 08.02.2025 08:20]
 
+* Die [Tafelanschrift](mitschriften_und_texte/2025-02-05_p_oldschool.pdf) vom letzten Mittwoch mit Erläuterungen.
 * Der letzte Test ist [online](tests/2025-02-05_test-21-zinsen.pdf), nun auch mit [Lösung](tests/2025-02-05_test-21-zinsen-loes.pdf).
 * Das letzte [Arbeitsblatt](arbeitsblaetter/aufg-29_2025-02-05-die-zwei-p.pdf). Nun auch mit [Lösung](arbeitsblaetter/loes-29_2025-02-05-die-zwei-p.pdf).
 
