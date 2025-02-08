@@ -5,9 +5,6 @@
 * Das letzte [Arbeitsblatt](arbeitsblaetter/aufg-29_2025-02-05-die-zwei-p.pdf). Nun auch mit [Lösung](arbeitsblaetter/loes-29_2025-02-05-die-zwei-p.pdf).
 
 
-
-Ich bin dabei die Rückstände in Bezug auf Lösungen und Tafelanschriften abzubauen.
-
 # Über dieses Verzeichnis
 
 Hier findet sich das Übungs- und Unterrichtsmaterial für Mathematik für die 10. Klasse der Freien Schule Mahlsdorf.
