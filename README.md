@@ -1,7 +1,7 @@
 # Die aktuellen Aufgaben/Dateien 
 ## updated: 13.02.2025 08:05
 
-* Die Tafelanschrift von gesern findet sich im entsprechenden Verzeichnis.
+* Die Tafelanschrift von gesern findet sich im entsprechenden Verzeichnis. (Bisher leider in roher Form, ohne Zusatzbemerkungen.)
 * Die Letzten Arbeitsblätter sind im üblichen Verzeichnis unter dem heutigen Datum.
 
 # Über dieses Verzeichnis
