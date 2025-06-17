@@ -1,8 +1,7 @@
 # Die aktuellen Aufgaben/Dateien 
 ## updated: 13.02.2025 08:05
 
-* Die Tafelanschrift von gesern findet sich im entsprechenden Verzeichnis. (Bisher leider in roher Form, ohne Zusatzbemerkungen.)
-* Die Letzten Arbeitsblätter sind im üblichen Verzeichnis unter dem heutigen Datum.
+Hier das [Brownierezept](https://www.chefkoch.de/rezepte/255661100829244/Brownies.html). Ich habe weniger Zucker genommen, aber es schien mir immer noch ein bisschen viel.
 
 # Über dieses Verzeichnis
 
