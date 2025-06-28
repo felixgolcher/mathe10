@@ -1,5 +1,4 @@
 # Die aktuellen Aufgaben/Dateien 
-## updated: 13.02.2025 08:05
 
 Hier das [Brownierezept](https://www.chefkoch.de/rezepte/255661100829244/Brownies.html). Ich habe weniger Zucker genommen, aber es schien mir immer noch ein bisschen viel.
 
